@@ -1,66 +1,45 @@
-It is a free HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
-
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
-
-
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
-
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
-
-However, you can remove the credit link by paying for PRO version of the template which also includes additional pages.
+Spectral by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-RIGHTS
+A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
+and an assortment of pre-styled elements. So, pretty much what you were expecting
+-- except, of course, for how it's put together, specifically:
 
-You are allowed to use it in your personal projects and commercial projects.
+- It's built with components from my Responsive Tools project.
 
-You can modify and sell it to your clients.
+- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
+  stopgaps (like CSS grid systems).
 
+- It uses Sass* a lot more intelligently, thanks in part to several new mixins
+  and functions I've been working on (as well as a few by @HugoGiraudel).
 
-PROHIBITIONS
+  (* = still entirely optional if you prefer vanilla CSS :)
 
-You cannot remove the credit link which links back to templatesjungle.com.
+- A ton of other stuff.
 
-You are not permitted to resell or redistribute (paid or free) as it is. 
+In short, Spectral's the culmination of several new things I'm working on/trying out,
+so please, let me know what you think :)
 
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
+(* = not included)
 
-You cannot host the download file in your website.
-
-
-SUPPORT
-
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
-
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
-
-
-CREDITS & REFERENCES
-
-https://getbootstrap.com/
-
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://icomoon.io/
-
-JQuery Plugins
-
-Swiper Slider - https://swiperjs.com/
-Slick Slider - https://kenwheeler.github.io/slick/
-Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
-Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
-
-Thanks for downloading from TemplatesJungle.com !
+AJ
+aj@lkn.io | @ajlkn
 
 
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
