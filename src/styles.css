@@ -1,0 +1,58 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: #fafafa;
+  margin: 0;
+}
+.container {
+  max-width: 600px;
+  margin: 2em auto;
+  background: white;
+  padding: 2em;
+  border-radius: 0.8em;
+  box-shadow: 0 0 16px #ddd;
+}
+.productsGrid {
+  display: flex;
+  gap: 1.2em;
+  flex-wrap: wrap;
+}
+.productCard {
+  background: #f6f6f6;
+  border-radius: 0.8em;
+  padding: 1em;
+  flex: 1 1 180px;
+  min-width: 180px;
+  max-width: 220px;
+  margin: 0.5em 0;
+  text-align: center;
+  box-shadow: 0 1px 6px #ccc;
+}
+.productImage {
+  width: 90%;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 0.4em;
+}
+.orderForm label {
+  display: block;
+  margin: 1em 0;
+}
+.orderForm input, .orderForm textarea {
+  width: 98%;
+  padding: 0.4em;
+  margin-top: 0.2em;
+}
+.orderForm button {
+  margin-top: 1em;
+  padding: 0.6em 2em;
+  background: #31343A;
+  color: white;
+  border: none;
+  border-radius: 0.4em;
+  cursor: pointer;
+}
+@media (max-width:720px) {
+  .productsGrid {
+    flex-direction: column;
+  }
+}
